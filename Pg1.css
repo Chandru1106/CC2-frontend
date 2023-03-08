@@ -1,0 +1,28 @@
+.hd{
+    height: 100vh;
+    width: 100%;
+   background-image: url("peakpx.jpg");
+}
+.log{
+    border: solid rgb(255, 255, 255) 4px;
+    border-radius: 50px 150px 30px 150px;
+    background-size: cover;
+    margin-top: -670px;
+    height: 520px;
+    width: 520px;
+    background-image: url("lg2.jpg");
+}
+.button{
+    width: 65px;
+    height: 45px;
+    margin-top: 80px;
+    margin-right: -1450px;
+    border:black 5px solid;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+  }

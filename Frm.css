@@ -1,0 +1,38 @@
+.container{
+    margin-left: 9%;
+    font-size: 20px;
+    background-color: rgb(220, 115, 115);
+    width: 50%;
+    margin-top: -700px;
+    padding: 5%;
+    margin-left: 23%;
+    margin-bottom: -210px;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ig{
+    
+    background-image: url("bg4.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    margin-bottom: -210px;
+}
+.bon{
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 0);
+    background-color: rgb(104, 104, 104);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ia{
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
